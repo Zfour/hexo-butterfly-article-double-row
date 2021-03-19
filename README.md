@@ -3,7 +3,7 @@ Change the layout of the hexo-theme-butterfly article to double columns
 
 ```css
 #recent-posts{
-	margin-top:-1rem;  /*头部为空时抵消间隔，若有磁贴或日历请注释掉该行*/
+	margin-top:-1rem;  /*头部为空时抵消间隔*/
 	align-content:flex-start;
 	display: flex;
     flex-wrap: wrap; /*规定灵活的项目在必要的时候拆行或拆列。*/
