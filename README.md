@@ -1,7 +1,7 @@
 # hexo-butterfly-article-double-row
 Change the layout of the hexo-theme-butterfly article to double columns
 
-```
+```css
 #recent-posts{
 	margin-top:-1rem;  /*头部为空时抵消间隔，若有磁贴或日历请注释掉该行*/
 	align-content:flex-start;
